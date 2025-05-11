@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FrmAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAddSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAllTransaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmChart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCoupons.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmIngredient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmOrderInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmReceipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmShiftConfirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmShiftRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmWorkdayList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="USAddProduct.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="USAddSupplier.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="USCategoryButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCartInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Suppliers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="USCartItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="USIngredientDetail.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="USProdItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="USShiftItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="USUpdateAccount.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="USUpdateCoupon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="USUpdateTransaction.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
